@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Class\ Enemy\n\ \n\ @author\ (Gun\ Gun\ Priatna)\ \n\ @version\ (1.0.0-dev)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ \n\ Enemy\ bergerak\ acak\n
+numComments=2

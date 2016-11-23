@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Gpworld
+comment0.text=\n\ class\ dunia\ game\n\ \n\ @author\ (Gun\ Gun\ Priatna)\ \n\ @version\ (1.0.0-dev)\n
+comment1.params=
+comment1.target=Gpworld()
+comment1.text=\n\ Constructor\ class\ Gpworld.\n\ \n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ respawnMusuh()
+numComments=6
